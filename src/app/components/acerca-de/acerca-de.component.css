@@ -6,8 +6,8 @@ div{
     text-align: center;
 }
 #nombre{
-    font-weight: bold;
-    margin-top: 30%;
+    font-weight: 600;
+    margin-top: 20%;
 }
 
 @media (min-width: 576px){
