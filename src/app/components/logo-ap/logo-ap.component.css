@@ -1,3 +1,35 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 #logoap{
     width: 150px
 }
+img{
+  width: 50px;
+}
+.redes{
+  margin-right: 40px;
+}
+.btn{
+  margin-left: 30px;
+  border-radius: 100px;
+  border-width: medium;
+}
+@media (max-width: 575px){
+    .container{
+    flex-direction: column;
+  }
+  .redes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .redes img{
+    margin: 0.2em;
+  }
+}
+
+
+
