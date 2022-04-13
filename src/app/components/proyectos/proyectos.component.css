@@ -1,6 +1,12 @@
+*{
+  font-family: 'Bebas Neue', cursive;
+}
 .row{
   padding: 20px;
   background-color: #548284;
+}
+.proy{
+  color: rgb(7, 7, 84);
 
 }
 .contenedor{

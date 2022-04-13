@@ -1,3 +1,7 @@
+*{
+  font-family: 'Bebas Neue', cursive;
+  color: rgb(7, 7, 84);
+}
 .row{
   background-color: #548284;
   padding: 20px;

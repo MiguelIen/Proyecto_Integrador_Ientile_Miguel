@@ -11,6 +11,9 @@ div{
     color: rgb(7, 7, 84);
     text-shadow: 4px 4px 6px rgb(184, 193, 219);
 }
+.yo{
+  font-family: 'Bebas Neue', cursive;
+}
 #titulo{
   color: rgb(7, 7, 84);
 }

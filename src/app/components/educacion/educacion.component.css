@@ -1,3 +1,9 @@
+*{
+  font-family: 'Bebas Neue', cursive;
+}
+.yo{
+  color: rgb(7, 7, 84);
+}
 .row{
     padding: 20px;
 }
