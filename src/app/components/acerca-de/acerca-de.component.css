@@ -2,12 +2,17 @@
     padding: 20px;
 }
 div{
-    background-color: #74b1b3;
+    background-color: #548284;
     text-align: center;
 }
 #nombre{
     font-weight: 600;
     margin-top: 20%;
+    color: rgb(7, 7, 84);
+    text-shadow: 4px 4px 6px rgb(184, 193, 219);
+}
+#titulo{
+  color: rgb(7, 7, 84);
 }
 
 @media (min-width: 576px){
